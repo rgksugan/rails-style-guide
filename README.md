@@ -1,46 +1,18 @@
 # Prelude
 
-> Role models are important. <br/>
-> -- Officer Alex J. Murphy / RoboCop
-
-The goal of this guide is to present a set of best practices and style
-prescriptions for Ruby on Rails 4 development. It's a
-complementary guide to the already existing community-driven
-[Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide).
-
-Some of the advice here is applicable only to Rails 4.0+.
+The goal of this guide is to present a set of best practices and style prescriptions for Sails 0.12 development. This guide is based on 
+[Rails coding style guide](https://github.com/bbatsov/rails-style-guide).
 
 You can generate a PDF or an HTML copy of this guide using
 [Pandoc](http://pandoc.org/).
 
-Translations of the guide are available in the following languages:
+# The Sails Style Guide
 
-* [Chinese Simplified](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [Chinese Traditional](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhTW.md)
-* [German](https://github.com/arbox/de-rails-style-guide/blob/master/README-deDE.md)
-* [Japanese](https://github.com/satour/rails-style-guide/blob/master/README-jaJA.md)
-* [Russian](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
-* [Turkish](https://github.com/tolgaavci/rails-style-guide/blob/master/README-trTR.md)
-* [Korean](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md)
-* [Vietnamese](https://github.com/CQBinh/rails-style-guide/blob/master/README-viVN.md)
+This Sails style guide recommends best practices so that real-world Sails programmers can write code that can be maintained by other real-world Sails programmers. A style guide that reflects real-world usage gets used, and a style guide that holds to an ideal that has been rejected by the people it is supposed to help risks not getting used at all &ndash; no matter how good it is.
 
-# The Rails Style Guide
+The guide is separated into several sections of related rules. I've tried to add the rationale behind the rules (if it's omitted I've assumed it's pretty obvious).
 
-This Rails style guide recommends best practices so that real-world Rails
-programmers can write code that can be maintained by other real-world Rails
-programmers. A style guide that reflects real-world usage gets used, and a
-style guide that holds to an ideal that has been rejected by the people it
-is supposed to help risks not getting used at all &ndash; no matter how good
-it is.
-
-The guide is separated into several sections of related rules. I've tried to add
-the rationale behind the rules (if it's omitted I've assumed it's pretty
-obvious).
-
-I didn't come up with all the rules out of nowhere - they are mostly based on my
-extensive career as a professional software engineer, feedback and suggestions
-from members of the Rails community and various highly regarded Rails
-programming resources.
+I didn't come up with all the rules out of nowhere - they are mostly based on my extensive career as a professional software engineer, feedback and suggestions from members of the Sails community and various highly regarded Sails programming resources.
 
 ## Table of Contents
 
@@ -1303,15 +1275,12 @@ you have time to spare:
 
 # Contributing
 
-Nothing written in this guide is set in stone. It's my desire to work together
-with everyone interested in Rails coding style, so that we could ultimately
-create a resource that will be beneficial to the entire Ruby community.
+Nothing written in this guide is set in stone. It's my desire to work together with everyone interested in Sails coding style, so that we could ultimately create a resource that will be beneficial to the entire community.
 
-Feel free to open tickets or send pull requests with improvements. Thanks in
-advance for your help!
+Feel free to open tickets or send pull requests with improvements. Thanks in advance for your help!
 
-You can also support the project (and RuboCop) with financial contributions via
-[gittip](https://www.gittip.com/bbatsov).
+You can also support the project with financial contributions via
+[gittip](https://www.gittip.com/rgksugan).
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.2.0/dist/gittip.png)](https://www.gittip.com/bbatsov)
 
@@ -1327,10 +1296,7 @@ License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
 
 # Spread the Word
 
-A community-driven style guide is of little use to a community that doesn't know
-about its existence. Tweet about the guide, share it with your friends and
-colleagues. Every comment, suggestion or opinion we get makes the guide just a
-little bit better. And we want to have the best possible guide, don't we?
+A community-driven style guide is of little use to a community that doesn't know about its existence. Tweet about the guide, share it with your friends and colleagues. Every comment, suggestion or opinion we get makes the guide just a little bit better. And we want to have the best possible guide, don't we?
 
 Cheers,<br/>
-[Bozhidar](https://twitter.com/bbatsov)
+[Sugan](https://twitter.com/rgksugan)
